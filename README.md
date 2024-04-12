@@ -21,4 +21,5 @@ BizCardX is a Python application that allows users to upload an image of a busin
 4. **Display Extracted Information**: Present the extracted information in an organized manner in the Streamlit GUI.
 
 5. **Database Integration**: Store extracted data and images in a database using SQL queries.
-# BizcardX-Project
+
+
