@@ -22,4 +22,6 @@ BizCardX is a Python application that allows users to upload an image of a busin
 
 5. **Database Integration**: Store extracted data and images in a database using SQL queries.
 
+## NAME:DEVANATHAN RAJA
+LINKEDIN PROJECT DEMO VIDEO LINK : https://www.linkedin.com/posts/devanathan-raja-5b03582ab_the-activity-7185928792916307969-cGvV?utm_source=share&utm_medium=member_desktop
 
